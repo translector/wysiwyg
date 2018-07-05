@@ -1,0 +1,9 @@
+name: 'Raiblocks Wysiwyg'
+description: 'Wysiwyg editor for Raiblocks.'
+type: module
+core: 8.x
+dependencies:
+  - ckeditor
+  - editor
+  - filter
+version: 1.0.0
